@@ -11,4 +11,6 @@ int main(){
 		sum+=n;
 	}
 	cout<<sum<<endl;
+
+	return 0;
 }
